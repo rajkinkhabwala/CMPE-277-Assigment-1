@@ -15,8 +15,8 @@ Don't forget to check Logs. (don't forget to set the logs for *Errors* to easily
 
 # CMPE-277-Assigment-1
 * Image with no counter
-![alt text](https://github.com/CMPE-277-Assigment-1/blob/Screenshot-0.jpeg?raw=true)
+![alt text](https://github.com/rajkinkhabwala/CMPE-277-Assigment-1/blob/main/Screenshot-0.jpeg)
 * Image with counter Incremented for 1 time
-![alt text](https://github.com/CMPE-277-Assigment-1/blob/Screenshot-1.jpeg?raw=true)
+![alt text](https://github.com/rajkinkhabwala/CMPE-277-Assigment-1/blob/main/Screenshot-1.jpeg)
 * Image with counter Incremented for 2 time
-![alt text](https://github.com/CMPE-277-Assigment-1/blob/Screenshot-2.jpeg?raw=true)
+![alt text](https://github.com/rajkinkhabwala/CMPE-277-Assigment-1/blob/main/Screenshot-2.jpeg)
