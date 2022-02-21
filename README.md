@@ -14,3 +14,9 @@ Simple Android activity lifecycle example with two different activities to see h
 Don't forget to check Logs. (don't forget to set the logs for *Errors* to easily see them)
 
 # CMPE-277-Assigment-1
+* Image with no counter
+![alt text](https://github.com/CMPE-277-Assigment-1/blob/Screenshot-0.jpeg?raw=true)
+* Image with counter Incremented for 1 time
+![alt text](https://github.com/CMPE-277-Assigment-1/blob/Screenshot-1.jpeg?raw=true)
+* Image with counter Incremented for 2 time
+![alt text](https://github.com/CMPE-277-Assigment-1/blob/Screenshot-2.jpeg?raw=true)
